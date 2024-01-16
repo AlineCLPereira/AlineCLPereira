@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AlineCLPereira
+- 👋 Hi, I’m @AlineCPereiraCoutinho
 - 👀 I’m interested in aprender mais sobre programação web
 - 🌱 I’m currently learning Dev Phyton
 - 💞️ I’m looking to collaborate on ...
